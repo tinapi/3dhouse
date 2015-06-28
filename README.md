@@ -1,5 +1,5 @@
 # 3dhouse
-A 3D house explorer using webGL
+A 3D house explorer using webGL (only works in Firefox)
 
 - Built a 3D house model using Maya and exported it to WebGL
 - Implemented following features
